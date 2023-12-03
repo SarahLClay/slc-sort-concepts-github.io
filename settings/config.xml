@@ -15,7 +15,7 @@
 <config version="1.0" htmlParse="false">
 
   <!-- title of the study -->
-  <item id="studyTitle">Name of your study</item>
+  <item id="studyTitle">Concepts for Climate Change</item>
 
   <!-- text-align property(left|right) -->
   <item id="textAlign">left</item>
@@ -55,7 +55,7 @@
 	<input type="radio" required="true">female;male</input>
 
     <label>Please answer the following questions.</label>
-	<input type="rating2" required="false" scale="Yes;No;">There's a car in my household;I own a car for myself</input>
+	<input type="rating2" required="false" scale="Yes;No;">This question wasn't there originally?</input>
 
     <label>What kind of transportation do you use?</label>
 	<input type="checkbox" required="false">Car;Railroad;Bike</input>
