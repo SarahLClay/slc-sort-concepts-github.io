@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <!--
 //
@@ -33,9 +33,9 @@
   <item id="loginUrlMethod"></item>
 
   <!-- activate/deactivate optional steps (true|false) -->
-  <item id="showStep3">false</item>
-  <item id="showStep4">false</item>
-  <item id="showStep5">false</item>
+  <item id="showStep3">true</item>
+  <item id="showStep4">true</item>
+  <item id="showStep5">true</item>
 
   <!-- HtmlQ only: disable the in-window back button -->
   <item id="disableBackButton">true</item>
@@ -45,36 +45,32 @@
   <!-- add note: <note>[STRING]</note> -->
   <!-- add input-field: <input type="[text|textarea|radio|select|checkbox|rating2|rating5|rating10]">[VALUE]</input> -->
   <!-- optional attributes: bg, id, maxlength, restricted, required, scale  -->
-  <!-- <item id="form">
+  <item id="form">
     <label>Age*</label>
-	<note>Please enter your year of birth (YYYY, eg. 1980).</note>
-	<input type="text" required="true" maxlength="4" restricted="0-9"></input>
+	<note>Please enter your area of expertise (e.g. climate scientist/ academic, youth climate activist, secondary science teacher).</note>
+	<input type="textarea" required="false"></input>
 
-    <label>Gender*</label>
-	<note>Please select your gender.</note>
-	<input type="radio" required="true">female;male</input>
+    <label>What criteria did you use to rank your statements?</label>
+	<note>What criteria did you use to rank your statements?</note>
+	<input type="textarea" required="false"></input>
 
-    <label>Please answer the following questions.</label>
-	<input type="rating2" required="false" scale="Yes;No;">This question wasn't there originally?</input>
+    <label>Did you find this activity difficult to do? Why/ why not? </label>
+	<input type="textarea" required="false"></input>
 
-    <label>What kind of transportation do you use?</label>
-	<input type="checkbox" required="false">Car;Railroad;Bike</input>
-
-    <label>What kind of transportation do you prefer?</label>
-	<input type="select" required="false">Car;Railroad;Bike</input>
+    <label>For you, what makes something 'transformative'? What kind of change does it result in?</label>
+	<input type="textarea" required="false"></input>
 
     <label>Comments</label>
 	<input type="textarea" required="false"></input>
 
     <note bg="false">All fields marked with an * are mandatory.</note>
-  </item> -->
+  </item>
 
   <!-- URL for data transmission via POST/GET (leave blank if not required) -->
-  <!-- <item id="submitUrl">http://127.0.0.1:5000/submit</item> -->
-  <item id="submitUrl">https://q-sort-results.fly.dev/submit</item>
-  <!-- request mode (post|get) -->
-  <item id="submitUrlMethod">post</item>
+  <item id="submitUrl"></item>
+  <!-- request mode (post|get) exe.php?do=save -->
+  <item id="submitUrlMethod"></item>
 
   <!-- data transmission via email, user must have an e-mail programm like Outlook (leave blank if not required) -->
-  <item id="submitMail">yourdomain.com</item>
+  <item id="submitMail">sarahclayton777@gmail.com</item>
  </config>

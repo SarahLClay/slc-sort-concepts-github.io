@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <!-- 
 // 
@@ -37,11 +37,54 @@
 -->
 
 <statements version="1.0" htmlParse="false">
-  <statement id = "1">There is a natural greenhouse effect that gives us liveable conditions on earth. (1)</statement>
-  <statement id = "2">There is an enhanced greenhouse effect causes by anthropogenic emissions. (2)</statement>
-  <statement id = "3">Climate does not equal carbon. (3)</statement>
+  <statement id = "1">There is a natural greenhouse effect that gives us liveable conditions on earth.</statement>
+  <statement id = "2">There is an enhanced greenhouse effect causes by anthropogenic emissions.</statement>
+  <statement id = "3">Climate considerations extend beyond carbon, encompassing ecosystem function and biodiversity.</statement>
   <statement id = "4">Carbon is transferred between different reservoirs on earth (in the carbon cycle). (4)</statement>
-  <!-- <statement id = "5">There are multiple sources and sinks for different greenhouse gases. (5)</statement>
+  <statement id = "5">There are multiple sources and sinks for different greenhouse gases. (5)</statement>
   <statement id = "6">There are lots of data sources that evidence climate change. (6)</statement>
-   -->
+  <statement id = "7">Global average temperatures have always varied but changes since the industrial revolution have been far faster.</statement>
+  <statement id = "8">Weather and climate are distinct phenomena</statement>
+  <statement id = "9">Climate change is caused by an imbalance between the amount of energy entering and leaving the earth.</statement>
+  <statement id = "10">Human activities can alter both the total amount and distribution of energy in the earth system.</statement>
+  <statement id = "11">Human-induced emissions of greenhouse gases are changing the frequency and intensity of extreme weather events.</statement>
+  <statement id = "12">Multiple greenhouse gases contribute to climate change.</statement>
+  <statement id = "13">Different greenhouse gases have different lifetimes.</statement>
+  <statement id = "14">Different greenhouse gases have different warming potentials.</statement>
+  <statement id = "15">Ocean acidification is a facet of global climate change</statement>
+  <statement id = "16">Climate change is already happening, and is having an impact in the UK.</statement>
+  <statement id = "17">Feedback loops can intensify climate changes.</statement>
+  <statement id = "18">Planetary boundaries define limits for sustainable living.</statement>
+  <statement id = "19">Climate science has a rich history and interdisciplinary nature</statement>
+  <statement id = "20">Measuring global temperatures is complex and involves a range of techniques.</statement>
+  <statement id = "21">Fossil fuel combustion and agricultural practices drive climate change</statement>
+  <statement id = "22">Climate change impacts are unevenly distributed.</statement>
+  <statement id = "23">Risks and impacts of climate change are not confined by borders.</statement>
+  <statement id = "24">The climate crisis contributes to a biodiversity crisis.</statement>
+  <statement id = "25">Inequalities influence responses to climate risks.</statement>
+  <statement id = "26">Representative Concentration Pathways (RCPs) predict climate change effects.</statement>
+  <statement id = "27">Shared Socioeconomic Pathways (SSPs) link RCPs to societal descriptions.</statement>
+  <statement id = "28">There is a difference between uncertainty and a complete lack of knowledge.</statement>
+  <statement id = "29">Uncertainty estimates vary in climate science.</statement>
+  <statement id = "30">Adaptation and mitigation are distinct climate strategies.</statement>
+  <statement id = "31">Per-capita CO2 emissions vary globally.</statement>
+  <statement id = "32">A Just Transition necessitates significant societal transformation.</statement>
+  <statement id = "33">Climate crisis solutions have associated benefits and drawbacks.</statement>
+  <statement id = "34">Policy shapes climate change mitigation efforts.</statement>
+  <statement id = "35">The legal nature of agreements from international climate negotiations impacts implementation. </statement>
+  <statement id = "36">Education policy may conflict with climate education.</statement>
+  <statement id = "37">Climate-driven innovation is essential.</statement>
+  <statement id = "38">Moral and political choices underlie climate change adaptation and mitigation.</statement>
+  <statement id = "39">Countries have Common But Differentiated Responsibility (CBDR).</statement>
+  <statement id = "40">Equitable burden-sharing demands fair responsibilities distribution.</statement>
+  <statement id = "41">Intergenerational justice recognizes the impact of today's decisions on future generations.</statement>
+  <statement id = "42">Climate outcomes exist on a continuum, not as a binary.</statement>
+  <statement id = "43">Cognitive biases influence how information on climate change is processed.</statement>
+  <statement id = "44">Interdependence: Humans are an integral part of nature, not separate from it.</statement>
+  <statement id = "45">Active hope requires meaningful climate action.</statement>
+  <statement id = "46">Responsibility for emissions extends beyond carbon footprints.</statement>
+  <statement id = "47">Media sources exhibit biases and frame information differently.</statement>
+  <statement id = "48">Cognitive biases contribute to climate skepticism.</statement>
+  <statement id = "49">Several different futures are possible</statement>
+  <statement id = "50">Action on the climate crisis is urgent; there is a risk of surpassing 2°C</statement>
 </statements>
