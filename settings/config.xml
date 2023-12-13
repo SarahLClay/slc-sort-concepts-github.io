@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <!--
 //
@@ -69,7 +69,8 @@
   <!-- URL for data transmission via POST/GET (leave blank if not required) -->
   <item id="submitUrl"></item>
   <!-- request mode (post|get) exe.php?do=save -->
-  <item id="submitUrlMethod"></item>
+    <!-- <item id="submitUrl">http://127.0.0.1:5000/submit</item> -->
+  <item id="submitUrl">https://q-sort-results.fly.dev/submit</item>
 
   <!-- data transmission via email, user must have an e-mail programm like Outlook (leave blank if not required) -->
   <item id="submitMail">sarahclayton777@gmail.com</item>
