@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <!--
 //
@@ -19,6 +19,9 @@
 
   <!-- text-align property(left|right) -->
   <item id="textAlign">left</item>
+  
+  <!-- Make the font of the cards smaller so that users can read more of the text -->
+  <item id="smallFont">true</item>
 
   <!-- shuffle cards (true|false)  -->
   <item id="shuffleCards">true</item>
