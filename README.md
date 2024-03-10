@@ -44,7 +44,7 @@ HtmlQ introduces a few new settings that were not available in FlashQ:
     <item id="disableBackButton">true</item>
 
     <!-- Make the font of the cards smaller so that users can read more of the text -->
-    <item id="smallFont">true</item>
+    <item id="smallFont">false</item>
 ```
 
 

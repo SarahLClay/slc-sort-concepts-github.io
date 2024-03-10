@@ -28,9 +28,9 @@
   <item id="btnContinue">Continue...</item>
   <item id="btnclose">Close</item>
   <item id="btnHelp">Help me!</item>
-  <item id="btnAgreement">Most Transformative</item>
+  <item id="btnAgreement">Most Important</item>
   <item id="btnNeutral">Neutral</item>
-  <item id="btnDisagreement">Least Transformative</item>
+  <item id="btnDisagreement">Least Important</item>
   <item id="btnTransfer">Submit data</item>
   <item id="btnMail">Send via email</item>
   <item id="btnPrint">Print data</item>
@@ -54,7 +54,7 @@
 
   <!-- user login, only displayed if access is restricted (see config-file) -->
   <item id="loginHead">User code</item>
-  <item id="loginText">Please enter your user code. Please note, that in this demo any user code will be accepted.{br}{br}{i}Tip: This is an optional step and you can deactivate it in your own survey.{i}</item>
+  <item id="loginText">Please enter your user code. Please note, that in this demo any user code will be accepted.{br}{br}</item>
   <item id="loginFormHeader">User code</item>
   <item id="loginNoInput">Please insert your user code.</item>
   <item id="loginInvalidInput">User code invalid</item>
@@ -66,19 +66,19 @@
 
   <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
   <item id="step1Head">Step 1 of 5</item>
-  <item id="step1Text">Read the folowing statements carefully and split them up into three piles: a pile for statements you think are the most transformative, a pile for the statements you think are least transformative and a pile for the rest.{br}{br}You can either drag the cards into one of the three piles or press 1, 2, 3 on your keyboard. Changes can be made later.{br}{br}If you want to read this instruction a second time, press the help-button at the bottom left corner.</item>
+  <item id="step1Text">Read the folowing statements carefully and split them up into three piles: a pile for statements you think are the most important, a pile for the statements you think are least important and a pile for the rest.{br}{br}You can either drag the cards into one of the three piles or press 1, 2, 3 on your keyboard. Changes can be made later.{br}{br}If you want to read this instruction a second time, press the help-button at the bottom left corner.</item>
 
   <!-- step2: sorting (leave blank to skip popup) -->
   <item id="step2Head">Step 2 of 5</item>
-  <item id="step2Text">Take the cards from the "MOST TRANSFORMATIVE"-pile and read them again. You can scroll through the statements by using the scroll bar. Next, select the statement you feel is most transformative and place it on the right side of the score sheet below the "+5".{br}{br}Now read the cards in the "LEAST TRANSFORMATIVE"-pile again. Just like before, select the statement you feel is least transformative and place them on the left side of the score sheet below the "-5".{br}{br}Next, select the statements you think are the second most transformative/least transformative and place them under "+4"/"-4". Follow this procedure for all cards in the "AGREE"- and "DIAGREE"-pile.{br}{br}Finally, read the "NEUTRAL"-cards again and arange them in the remaining open boxes of the score sheet.</item>
+  <item id="step2Text">Take the cards from the "MOST IMPORTANT"-pile and read them again. You can scroll through the statements by using the scroll bar. Next, select the statement you feel is most important and place it on the right side of the score sheet below the "+5".{br}{br}Now read the cards in the "LEAST IMPORTANT"-pile again. Just like before, select the statement you feel is least important and place them on the left side of the score sheet below the "-5".{br}{br}Next, select the statements you think are the second most important/least important and place them under "+4"/"-4". Follow this procedure for all cards in the "MOST IMPORTANT"- and "LEAST IMPORTANT"-pile.{br}{br}Finally, read the "NEUTRAL"-cards again and arange them in the remaining open boxes of the score sheet.</item>
 
   <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
   <item id="step3Head">Step 3 of 5</item>
-  <item id="step3Text">Now you have placed all cards on the score sheet. Please go over your distribution once more and shift cards if you want to.{br}{br}{i}Tip: This is an optional step and you can deactivate it in your own survey.{i}</item>
+  <item id="step3Text">Now you have placed all cards on the score sheet. Please go over your distribution once more and shift cards if you want to.{br}{br}</item>
 
   <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
   <item id="step4Head">Step 4 of 5</item>
-  <item id="step4Text">Please explain why you think the following statements are most transformative or least transformative, where you placed them in the position "+5" or "-5".{br}{br}{i}Tip: This is a optional step and you can deactivate it in your own survey.{i}</item>
+  <item id="step4Text">Please explain why you think the following statements are most important or least important, where you placed them in the position "+5" or "-5".{br}{br}</item>
 
   <!-- step5: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
   <item id="step5Head">Step 5 of 5</item>
